@@ -34,9 +34,8 @@ function Cards() {
                     />
                     <CardItem
                     src='images/img-4.jpg'
-                    text='Travel through the islands of Bali 
-                    in a private cruise'
-                    label='Luxury'
+                    text='Experience football on top of the Himalayan Mountains'
+                    label='Adventure'
                     path='/services'
                     />
                     <CardItem
