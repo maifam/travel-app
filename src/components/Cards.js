@@ -39,8 +39,7 @@ function Cards() {
                     />
                     <CardItem
                     src='images/img-8.jpg'
-                    text='Travel through the islands of Bali 
-                    in a private cruise'
+                    text='Ride through the Sahara Desert on a guided camel tour'
                     label='Luxury'
                     path='/services'
                     />
