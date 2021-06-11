@@ -18,7 +18,9 @@ import React from 'react';
 
      return ( 
          <Link to='/sign-up' className='btn-mobile'> 
-            <button className={`btn ${checkButtonStyle} ${checkButtonSize}`}>
+            <button className={`btn ${checkButtonStyle} ${checkButtonSize}`}
+            onClick={onClick}
+            type=>
                 {children}
             </button>
          </Link>
