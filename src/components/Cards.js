@@ -29,7 +29,7 @@ function Cards() {
                     src='images/img-3.jpg'
                     text='Explore the hidden waterfall deep 
                     inside the Amazon jungle'
-                    label='Adventure'
+                    label='Mystery'
                     path='/services'
                     />
                     <CardItem
