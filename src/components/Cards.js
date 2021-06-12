@@ -27,8 +27,7 @@ function Cards() {
                 <ul className='cards__items'>
                     <CardItem
                     src='images/img-3.jpg'
-                    text='Explore the hidden waterfall deep 
-                    inside the Amazon jungle'
+                    text='Set sail in the Atlantic Ocean visiting Uncharted Waters'
                     label='Mystery'
                     path='/services'
                     />
