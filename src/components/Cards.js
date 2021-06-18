@@ -39,7 +39,7 @@ function Cards() {
                     />
                     <CardItem
                     src='images/img-8.jpg'
-                    text='Ride through the Sahara Desert on a guided camel tour'
+                    text=''
                     label='Luxury'
                     path='/services'
                     />
