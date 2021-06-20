@@ -12,7 +12,7 @@ function Cards() {
                     <CardItem
                     src='images/img-9.jpg'
                     text='Explore the hidden waterfall deep 
-                    inside the Amazon jungle'
+                    inside the Amazon Jungle'
                     label='Adventure'
                     path='/services'
                     />
