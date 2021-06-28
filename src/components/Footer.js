@@ -1,5 +1,7 @@
 import React from 'react';
 import './Footer.css';
+import { Button } from './Button';
+import { Link } from 'react-router-dom';
 
 function Footer() {
     return (
@@ -76,7 +78,7 @@ function Footer() {
                             target='_blank' 
                             aria-labels='Instagram'
                         >
-                            <i className='fab fa-instram'/>
+                            <i className='fab fa-instagram'/>
                         </Link>
                         <Link 
                             className='social-icon-link linkedIn' 
