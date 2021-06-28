@@ -53,7 +53,43 @@ function Footer() {
                     </div>
                 </div>
             </div>
-            
+            <section className='social-media'>
+                <div className='scial-media-wrap'>
+                    <div className='footer-logo'>
+                        <Link to ='/' className='social-logo'>
+                            TRVL <i className='fab fa-typo3'/>
+                        </Link>
+                    </div>
+                    <small className='website-rights'> TRVL © 2021</small>
+                    <div className='social-icons'>
+                        <Link 
+                            className='social-icon-link facebook' 
+                            to='/' 
+                            target='_blank' 
+                            aria-labels='Facebook'
+                        >
+                            <i className='fab fa-facebook-f'/>
+                        </Link>
+                        <Link 
+                            className='social-icon-link instagram' 
+                            to='/' 
+                            target='_blank' 
+                            aria-labels='Instagram'
+                        >
+                            <i className='fab fa-instram'/>
+                        </Link>
+                        <Link 
+                            className='social-icon-link linkedIn' 
+                            to='/' 
+                            target='_blank' 
+                            aria-labels='LinkedIn'
+                        >
+                            <i className='fab fa-linkedin'/>
+                        </Link>
+                    </div>
+                </div>
+            </section>
+
         </div>
     )
 }
