@@ -88,10 +88,11 @@
     margin-bottom: 32px;
 }
 
-.footer-input::placeholder{
+.footer-input::placeholder {
     color: #b1b1b1;
 }
 
+/*Social Icons*/
 .social-icon-link {
     color: #ffff;
     font-size: 24px;
@@ -99,7 +100,7 @@
 
 .social-media {
     max-width: 1000px;
-    width:100%;
+    width: 100%;
 }
 
 .social-media-wrap {
@@ -120,7 +121,7 @@
 
 .social-logo { 
     color: #ffff;
-    justify-self: 20px;
+    justify-self: start;
     margin-left: 20px;
     cursor: pointer;
     text-decoration: none;
